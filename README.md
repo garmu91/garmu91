@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @garmu91
 - 👀 I’m interested in web pages programming
-- 🌱 I’m currently learning Git & GitHub
-- I have experience in HTML, CSS, JavaScript, MySql, PHP.
+- 🌱 I’m currently learning Node.js
+- I have experience in HTML, CSS, JavaScript, MySQL, PHP, Git, Jira.
 - 💞️ I’m looking to collaborate on any web pages developing that can help me to learn and improve
 - 📫 How to reach me ...
 
